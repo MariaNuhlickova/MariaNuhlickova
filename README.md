@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to master SQL for data insights and accurate data interpetation, python and web analytics
 - 💞️ I’m looking to collaborate on any of above :) 
 - 📫 How to reach me : https://www.linkedin.com/in/maria-nuhlickova-data-analyst/
-- ⚡ Fun fact: I am a Dancer and burleque performer
+- ⚡ Fun fact: I am a Dancer and a Burlesque performer
 
 <!---
 MariaNuhlickova/MariaNuhlickova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
